@@ -1,0 +1,7 @@
+{
+  "name": "ThermalPrinterApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
